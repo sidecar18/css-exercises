@@ -1,0 +1,8 @@
+/* ex-01-styles.css */
+
+div {
+    color: white;
+    background-color: red;
+    font-weight: bolder;
+    font-size: xx-large;
+}
