@@ -1,0 +1,21 @@
+/* css foundations ex-02 */
+
+.odd {
+    background-color: #FFB6C1;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.font {
+    font-size: 24px;
+}
+
+#num2 {
+    font-size: 36px;
+    color: #0000FF
+}
+
+#num4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
