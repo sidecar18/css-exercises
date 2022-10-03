@@ -1,0 +1,15 @@
+/* CSS style for ex-3 */
+
+.one {
+    color: white;
+    background-color: #000000;
+}
+
+.two {
+    background-color: #FFFF00
+}
+
+.both {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
